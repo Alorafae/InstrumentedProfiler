@@ -1,0 +1,63 @@
+Function:                     bool __cdecl countwhile(void)
+-->Clock Cycles:              45
+-->Time in USec:              0.0139664804
+-->Min Clock Cycles:          45
+-->Min Time USec:             0.0139664804
+-->Max Clock Cycles:          45
+-->Max Time USec:             0.0139664804
+-->Number of Calls Per Frame: 1
+
+Function:                     bool __cdecl countfor(void)
+-->Clock Cycles:              48357
+-->Time in USec:              15.0083798883
+-->Min Clock Cycles:          48357
+-->Min Time USec:             15.0083798883
+-->Max Clock Cycles:          48357
+-->Max Time USec:             15.0083798883
+-->Number of Calls Per Frame: 1
+
+Function:                     bool __cdecl countwhile2(int)
+-->Clock Cycles:              21
+-->Time in USec:              0.0065176909
+-->Min Clock Cycles:          21
+-->Min Time USec:             0.0065176909
+-->Max Clock Cycles:          21
+-->Max Time USec:             0.0065176909
+-->Number of Calls Per Frame: 1
+
+Function:                     bool __cdecl countfor2(int)
+-->Clock Cycles:              21
+-->Time in USec:              0.0065176909
+-->Min Clock Cycles:          21
+-->Min Time USec:             0.0065176909
+-->Max Clock Cycles:          21
+-->Max Time USec:             0.0065176909
+-->Number of Calls Per Frame: 1
+
+Function:                     bool __cdecl squareroot(void)
+-->Clock Cycles:              21
+-->Time in USec:              0.0065176909
+-->Min Clock Cycles:          21
+-->Min Time USec:             0.0065176909
+-->Max Clock Cycles:          21
+-->Max Time USec:             0.0065176909
+-->Number of Calls Per Frame: 1
+
+Function:                     bool __cdecl square(void)
+-->Clock Cycles:              30
+-->Time in USec:              0.0093109870
+-->Min Clock Cycles:          30
+-->Min Time USec:             0.0093109870
+-->Max Clock Cycles:          30
+-->Max Time USec:             0.0093109870
+-->Number of Calls Per Frame: 1
+
+Function:                     unsigned int __cdecl prime(void)
+-->Clock Cycles:              64317994219
+-->Time in USec:              19962133.5254500322
+-->Min Clock Cycles:          64317994219
+-->Min Time USec:             19962133.5254500322
+-->Max Clock Cycles:          64317994219
+-->Max Time USec:             19962133.5254500322
+-->Number of Calls Per Frame: 1
+
